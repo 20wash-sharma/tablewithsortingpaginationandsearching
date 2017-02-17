@@ -1,0 +1,57 @@
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 12, 2017, 3:19:38 PM
+    Author     : genius
+*/
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+section{
+    margin-top:150px;
+}
+.navbar-header{
+    align-content:  center;
+}
+.allcontrols{
+    margin-left: 77px;
+    margin-right: 70px;
+}
+body{
+    margin:10px;
+    padding:10px;
+}
+.hidden{
+    display:hidden;
+}
+tr.selected {
+    background-color: #FFCF8B;
+}
+#search{
+    width:160px;
+    margin-top:10px;
+}
+#param{
+    
+}
+.tableinputforupdate{
+   
+    
+}
+.odd{
+    background-color:cornsilk;
+}
+.even{
+    background-color:seashell;
+}
+.fa{
+    float:right;
+}
+#Numberofpages{
+    width:160px;
+}
